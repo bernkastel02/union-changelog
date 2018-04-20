@@ -10,3 +10,4 @@
 ### Planned for next release
 * Fix title bar opacity on login
 * PR all login screen changes
+* Add installer 
