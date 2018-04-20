@@ -2,3 +2,6 @@
 
 Changelog for the Union Desktop Application, and Releases.
 ###### Releases are in [here](https://github.com/reundefined/union-changelog/releases), and changelog is usually found in the wiki.
+
+[Union Chat](https://github.com/Union-Chat)
+[Union Web Client](http://union.serux.pro)
